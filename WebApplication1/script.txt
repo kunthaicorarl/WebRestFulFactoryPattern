@@ -1,0 +1,7 @@
+dotnet ef migrations add InitialCreate --context ApplicationDbContext -v
+
+dotnet ef database update --context ApplicationDbContext -v
+
+dotnet ef migrations script --context ApplicationDbContext -v 
+
+create database AlinjewelryCore;
