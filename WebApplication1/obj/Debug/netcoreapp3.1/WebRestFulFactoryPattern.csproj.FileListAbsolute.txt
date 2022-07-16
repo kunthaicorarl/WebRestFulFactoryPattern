@@ -204,3 +204,4 @@ C:\Users\Corarl MSI\Documents\WebRestFulFactoryPattern\WebApplication1\obj\Debug
 C:\Users\Corarl MSI\Documents\WebRestFulFactoryPattern\WebApplication1\obj\Debug\netcoreapp3.1\WebRestFulFactoryPattern.Views.pdb
 C:\Users\Corarl MSI\Documents\WebRestFulFactoryPattern\WebApplication1\obj\Debug\netcoreapp3.1\WebRestFulFactoryPattern.dll
 C:\Users\Corarl MSI\Documents\WebRestFulFactoryPattern\WebApplication1\obj\Debug\netcoreapp3.1\WebRestFulFactoryPattern.pdb
+C:\Users\Corarl MSI\Documents\WebRestFulFactoryPattern\WebApplication1\obj\Debug\netcoreapp3.1\WebRestFulFactoryPattern.csprojAssemblyReference.cache

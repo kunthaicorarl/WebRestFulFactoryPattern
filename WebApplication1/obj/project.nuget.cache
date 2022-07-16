@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "1hzlYxRRNFqm7Yl7VzCdXd0RApBAOb6XieqQ0TAdgXHHOAhfsiXJlr4dbg4uDiqx5iLzFg9M17TEOeBT3EOPYA==",
+  "dgSpecHash": "Da5vQGkhmJDHwCrVua2WmLF61BHCMxkOmuSfW8CYDqCeZCMeP2EHX3YopMCur8yhSKeMsi+nzdsPiT9K8LIoVA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Corarl MSI\\Documents\\WebRestFulFactoryPattern\\WebApplication1\\WebRestFulFactoryPattern.csproj",
   "expectedPackageFiles": [
@@ -53,6 +53,7 @@
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.identitymodel.tokens\\5.5.0\\microsoft.identitymodel.tokens.5.5.0.nupkg.sha512",
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512",
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration\\3.1.5\\microsoft.visualstudio.web.codegeneration.3.1.5.nupkg.sha512",
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.contracts\\3.1.5\\microsoft.visualstudio.web.codegeneration.contracts.3.1.5.nupkg.sha512",
     "C:\\Users\\Corarl MSI\\.nuget\\packages\\microsoft.visualstudio.web.codegeneration.core\\3.1.5\\microsoft.visualstudio.web.codegeneration.core.3.1.5.nupkg.sha512",
