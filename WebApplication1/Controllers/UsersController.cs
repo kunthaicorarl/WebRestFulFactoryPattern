@@ -21,5 +21,7 @@ public class UsersController : Controller
         var allUsersExceptCurrentUser = await _userManager.Users.Where(a => a.Id != currentUser.Id).ToListAsync();
         return View(allUsersExceptCurrentUser);
     }
+
+
 }
 }
